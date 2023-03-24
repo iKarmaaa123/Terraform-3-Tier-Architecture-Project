@@ -6,3 +6,4 @@ private-key/
 c9-nullresource-provisioners.tf
 terraform.tfstate
 terraform.tfvars
+c2-generic-variables.tf
