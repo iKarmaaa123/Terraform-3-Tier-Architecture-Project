@@ -1,0 +1,8 @@
+private-key/
+*.pem
+*.terraform/
+*.terraform
+.terraform.lock.hcl
+c9-nullresource-provisioners.tf
+terraform.tfstate
+terraform.tfvars
